@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/weisjohn/slugify-cli-lite/issues"
   },
-  "homepage": "https://github.com/weisjohn/slugify-cli-lite#readme"
+  "homepage": "https://github.com/weisjohn/slugify-cli-lite#readme",
+  "dependencies": {
+    "slugify": "^1.3.0"
+  }
 }
