@@ -1,0 +1,24 @@
+{
+  "name": "slugify-cli-lite",
+  "version": "0.0.1",
+  "description": "slugify for your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisjohn/slugify-cli-lite.git"
+  },
+  "keywords": [
+    "slugify",
+    "cli",
+    "slug"
+  ],
+  "author": "John Weis <weis.john@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weisjohn/slugify-cli-lite/issues"
+  },
+  "homepage": "https://github.com/weisjohn/slugify-cli-lite#readme"
+}
