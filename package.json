@@ -1,6 +1,6 @@
 {
   "name": "slugify-cli-lite",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "slugify for your terminal",
   "main": "index.js",
   "scripts": {
